@@ -1,0 +1,96 @@
+body {
+	background: pink;	
+}
+
+
+.red_header {
+	background-color: red;
+	color: white;
+	width: 100px;
+	height: 40px;
+}
+
+.blue_paragraph{
+	background-color: blue;	
+	width: 300px;
+	height: 80px;
+}
+
+.yellow_paragraph{
+	background-color: yellow;	
+	width: 300px;
+	height: 50px;
+}
+
+.one{
+	background-color: red;
+	width: 60px;
+	height: 60px;
+}
+.two{
+	background-color: orange;
+	width: 120px;
+	height: 60px;
+}
+.three{
+	background-color: blue;
+	width: 180px;
+	height: 60px;
+}
+
+.joy {
+	background-color: #ff5722;
+	width: 400px;
+	height: 150px;
+	font-size: 70px;
+	text-align: center;
+	padding-top: 40px;
+}
+
+.div_gray {
+	background-color: rgba(158, 158, 158, 0.58);
+	width: 600px;
+	height: 200px;
+}
+
+.brown_h1 {
+	color: #6b1a1a;
+	font-family: arial;
+}
+
+.brown_h3 {
+	color: #6b571a;
+}
+
+h4 a{
+	color: green;
+}
+
+.text_size{	
+	font-size: 30px;
+}
+
+.text_super{
+	vertical-align: super;
+	font-style: italic;
+}
+
+.text_sub{
+	vertical-align: sub;
+	font-style: italic;
+}
+
+.text_italic{
+	font-style: italic;
+	font-size: 30px;
+}
+
+.red_sup{
+	vertical-align: super;
+	color: red;
+}
+
+.blue_sub{
+	vertical-align: sub;
+	color: blue;
+}
